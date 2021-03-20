@@ -50,7 +50,7 @@ export default function Footer(){
                     About Teamee
                   </Typography>
                   <Typography variant="body2" gutterBottom>
-                    Contact Information: We are an startup that provides connectivity service for those who is passionate about sports
+                    Contact Information: We are a startup that provides connectivity service to those who are passionate about sports
                   </Typography>
                 </Grid>
               </Grid>
