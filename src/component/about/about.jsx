@@ -1,9 +1,11 @@
 import React from 'react';
 
-import './style.css';
+import './about.css';
+  
 
 export default function About(){
-    return(<div>
-        About Teamee
+    return(<div id="about_background">
+        <h1 id="about_header">About Teamee</h1>
+        <div id="about_subtitle">Sports, Connected</div>
     </div>);
 }

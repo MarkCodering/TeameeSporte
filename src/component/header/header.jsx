@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from '@material-ui/core/Link';
 import IconButton from '@material-ui/core/IconButton';
 import { makeStyles } from '@material-ui/core/styles';
 import BottomNavigation from '@material-ui/core/BottomNavigation';
@@ -16,7 +17,7 @@ const useStyles = makeStyles({
     borderRadius: 3,
     boxShadow: '0 3px 5px 2px rgba(255, 105, 135, .3)',
     color: 'white',
-    height: 48,
+    height: 60,
     padding: '0 30px',
   },
 });
@@ -35,8 +36,8 @@ return (
       showLabels
       className={classes.root}
     >
-      <BottomNavigationAction label="Home" icon={<HomeIcon />} />
-      <BottomNavigationAction label="About" icon={<InfoIcon />} />
+      <BottomNavigationAction label="Home" href="/" icon={<HomeIcon />} />
+      <BottomNavigationAction label="About" href="/about" icon={<InfoIcon />} />
       <IconButton href="https://forms.gle/1ATTh1j9ajDVSBKA7" label="Feeback" ><DescriptionIcon/>Feedback</IconButton>
     </BottomNavigation>
   );

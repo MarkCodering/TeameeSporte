@@ -1,0 +1,25 @@
+#about_background{
+    padding: 18%;
+    display: flow-root;
+    background-image: linear-gradient(rgba(143, 67, 100, 0.5),rgba(158, 124, 80, 0.5)), url("./about_1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#about_header{
+    margin: 0;
+    text-align: left;
+    font-weight: 600%;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff1e4e;
+}
+
+#about_subtitle{
+    text-align: left;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
