@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/956561b1-bc4f-4a28-90c4-3f90432fc184/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/TeameeSporte",
+    "appService.deploySubpath": "."
+}

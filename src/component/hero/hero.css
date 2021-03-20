@@ -1,0 +1,14 @@
+#background{
+    background-image: radial-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url('./hero_1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20%;
+}
+
+#header_style{
+    text-align: center;
+    font-weight:bolder;
+    font-size: 500%;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#FE6B8B;
+}
