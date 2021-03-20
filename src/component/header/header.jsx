@@ -1,11 +1,11 @@
 import React from 'react';
-import {IconButton} from '@material-ui/core/IconButton';
+import IconButton from '@material-ui/core/IconButton';
 import { makeStyles } from '@material-ui/core/styles';
-import {BottomNavigation} from '@material-ui/core/BottomNavigation';
-import {BottomNavigationAction} from '@material-ui/core/BottomNavigationAction';
-import {InfoIcon} from '@material-ui/icons/Info';
-import {HomeIcon} from '@material-ui/icons/Home';
-import {DescriptionIcon} from '@material-ui/icons/Description';
+import BottomNavigation from '@material-ui/core/BottomNavigation';
+import BottomNavigationAction from '@material-ui/core/BottomNavigationAction';
+import InfoIcon from '@material-ui/icons/Info';
+import HomeIcon from '@material-ui/icons/Home';
+import DescriptionIcon from '@material-ui/icons/Description';
 import './header.css';
 
 //Declare global style variables
