@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/TeameeSporte/static/css/main.5cc53ebb.chunk.css",
-    "main.js": "/TeameeSporte/static/js/main.174ff528.chunk.js",
-    "main.js.map": "/TeameeSporte/static/js/main.174ff528.chunk.js.map",
-    "runtime-main.js": "/TeameeSporte/static/js/runtime-main.297dae59.js",
-    "runtime-main.js.map": "/TeameeSporte/static/js/runtime-main.297dae59.js.map",
-    "static/js/2.c736f006.chunk.js": "/TeameeSporte/static/js/2.c736f006.chunk.js",
-    "static/js/2.c736f006.chunk.js.map": "/TeameeSporte/static/js/2.c736f006.chunk.js.map",
-    "static/js/3.0e9e885e.chunk.js": "/TeameeSporte/static/js/3.0e9e885e.chunk.js",
-    "static/js/3.0e9e885e.chunk.js.map": "/TeameeSporte/static/js/3.0e9e885e.chunk.js.map",
+    "main.css": "/TeameeSporte/static/css/main.8338b361.chunk.css",
+    "main.js": "/TeameeSporte/static/js/main.384c48a6.chunk.js",
+    "main.js.map": "/TeameeSporte/static/js/main.384c48a6.chunk.js.map",
+    "runtime-main.js": "/TeameeSporte/static/js/runtime-main.fe5d53dc.js",
+    "runtime-main.js.map": "/TeameeSporte/static/js/runtime-main.fe5d53dc.js.map",
+    "static/js/2.fec0df30.chunk.js": "/TeameeSporte/static/js/2.fec0df30.chunk.js",
+    "static/js/2.fec0df30.chunk.js.map": "/TeameeSporte/static/js/2.fec0df30.chunk.js.map",
+    "static/js/3.b3376b7f.chunk.js": "/TeameeSporte/static/js/3.b3376b7f.chunk.js",
+    "static/js/3.b3376b7f.chunk.js.map": "/TeameeSporte/static/js/3.b3376b7f.chunk.js.map",
     "index.html": "/TeameeSporte/index.html",
-    "static/css/main.5cc53ebb.chunk.css.map": "/TeameeSporte/static/css/main.5cc53ebb.chunk.css.map",
-    "static/js/2.c736f006.chunk.js.LICENSE.txt": "/TeameeSporte/static/js/2.c736f006.chunk.js.LICENSE.txt",
+    "static/css/main.8338b361.chunk.css.map": "/TeameeSporte/static/css/main.8338b361.chunk.css.map",
+    "static/js/2.fec0df30.chunk.js.LICENSE.txt": "/TeameeSporte/static/js/2.fec0df30.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/TeameeSporte/static/media/about_1.a8485d51.jpg",
     "static/media/footer_1.f8bb4590.jpg": "/TeameeSporte/static/media/footer_1.f8bb4590.jpg",
     "static/media/footer_2.6a3d072e.jpg": "/TeameeSporte/static/media/footer_2.6a3d072e.jpg",
     "static/media/hero.css": "/TeameeSporte/static/media/hero_1.816eaf9a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.297dae59.js",
-    "static/js/2.c736f006.chunk.js",
-    "static/css/main.5cc53ebb.chunk.css",
-    "static/js/main.174ff528.chunk.js"
+    "static/js/runtime-main.fe5d53dc.js",
+    "static/js/2.fec0df30.chunk.js",
+    "static/css/main.8338b361.chunk.css",
+    "static/js/main.384c48a6.chunk.js"
   ]
 }
